@@ -1,3 +1,8 @@
-# Intel-Sustainability-Analysis
-- Analyzed a dataset of ~19,000 rows in Excel to evaluate Intel’s device repurposing strategy, calculating average energy savings, CO₂ reduction, and device age trends.
-- Delivered data-driven recommendations to optimize sustainability ROI by identifying the relationship between device age, repurposing rates, and energy efficiency.
+# Intel Energy Savings Analysis
+Analyzed data from multiple device usage scenarios to measure potential energy savings if repurposed Intel devices were used.  
+Key skills: Excel formulas, VLOOKUP, Pivot Tables, Conditional Formatting, Data Visualization.
+
+**Highlights:**
+- Created a dynamic dashboard comparing power usage.
+- Used formulas like `VAR.S`, `IRR`, and `PV` to evaluate cost savings.
+- Designed visual summaries for clear presentation.
